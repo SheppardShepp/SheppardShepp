@@ -2,10 +2,10 @@
 
 ### Petit mot de présentation.
 
-Issus du monde de l'industrie, j'ai effectué une reconversion professionnelle en 2022 dans le développement web.  
-Autodidacte depuis mon adolescence dans l'informatique et gamer sur mon temps libre, j'ai voulu élargir mes compétences dans l'informatique et le numérique. Je me suis donc lancé et formé chez OpenClassrooms.
+Issus du secteur de l'industrie métallurgique, j'ai effectué une reconversion professionnelle en 2022.  
+Gamer sur mon temps libre et autodidacte depuis mon adolescence avec l'outil informatique, j'ai acquis avec le temps certaines connaissances dans le domaine de l'hardware. Étant curieux et intéressé par le monde numérique, j'ai voulu élargir mes compétences à l'univers du software. Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation de Développeur web.
 
-Je suis maintenant développeur web front-end. :partying_face:
+Vous retrouverai sur ce profil, mes différents projets effectué chez OpenClassrooms, ainsi que des projets personnels.
 
 ### Lien vers mon profil Linkedin : <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="100px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
 
@@ -17,13 +17,3 @@ Je suis maintenant développeur web front-end. :partying_face:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-#### Mon évolution:
-
-- **sur le court terme :** prendre de l'expérience, me spécialisant dans React et NodeJS.
-
-- **sur le moyen terme :** apprendre à créer des applications sous android.
-
-- **sur le long terme :** être développeur full stack en freelance, après on vera ce que l'avenir me réserve.
-
-Working in progress ...!! :v:
