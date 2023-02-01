@@ -1,15 +1,26 @@
-# Salut, moi c'est Damien !!:wave:
+<!-- # Salut, moi c'est Damien !!:wave: -->
+<h1 align="center">Salut, moi c'est Damien !!:wave:</h1>
 
 ### Petit mot de présentation.
 
-Issus du secteur de l'industrie métallurgique, j'ai effectué une reconversion professionnelle en 2022.  
-Gamer sur mon temps libre et autodidacte depuis mon adolescence avec l'outil informatique, j'ai acquis avec le temps certaines connaissances dans le domaine de l'hardware. Étant curieux et intéressé par le monde numérique, j'ai voulu élargir mes compétences à l'univers du software. Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation de Développeur web.
+Issus du secteur de l'industrie métallurgique, j'ai effectué une reconversion professionnelle en 2022.
 
-Vous retrouverai sur ce profil, mes différents projets effectué chez OpenClassrooms, ainsi que des projets personnels.
+Gamer sur mon temps libre et autodidacte depuis mon adolescence avec l'outil informatique, j'ai acquis avec le temps certaines connaissances dans le domaine de l'hardware.
 
-### Lien vers mon profil Linkedin : <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="100px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
+Étant curieux et intéressé par le monde numérique, j'ai voulu sortir de ma zone de confort et élargir mon horizon à l'univers du software.
+Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation de Développeur web.
 
-### Lien vers mon CV : <a href="https://sheppardshepp.github.io/cv-mk2/"> Mon curriculum vitae </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/">
+    <img alt="Lien vers profil linkedin" width="100px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
+</p>
+<p align="center">
+  <a href="https://sheppardshepp.github.io/cv-mk2/">
+    <img alt="Lien vers curriculum vitae" width="100px" src="https://1.bp.blogspot.com/-wv6j7rws9iw/WnFTFwjO6FI/AAAAAAAAAY0/e9SUpeteUE8RBlSqbeeI_T9h3QEkdwv4ACLcBGAs/s1600/CV_logo.png" /></a>
+</p>
+<!-- ### Lien vers mon profil Linkedin : <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="100px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
+
+<!-- ### Lien vers mon CV : <a href="https://sheppardshepp.github.io/cv-mk2/"> img Mon curriculum vitae </a> --> -->
 
 ### Je pratique :
 
@@ -17,3 +28,5 @@ Vous retrouverai sur ce profil, mes différents projets effectué chez OpenClass
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+Vous retrouverai sur ce profil, mes différents projets effectué chez OpenClassrooms, ainsi que des projets personnels.
