@@ -1,4 +1,3 @@
-<!-- # Salut, moi c'est Damien !!:wave: -->
 <h1 align="center">Salut, moi c'est Damien !!:wave:</h1>
 
 ## 💭 Petit mot de présentation.
@@ -39,7 +38,12 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 ---
 
-## ⛏️ Mes Projets
+<h2 align="center">⛏️ Mes Projets</h2>
 
 - [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) : site internet d'hébergement et d'activité sur une localité
-  Objectif : Transformer une maquette en HTML & CSS.
+
+Objectif : Transformer une maquette en HTML & CSS.
+
+Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg">
+
+Aperçu : <img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/apercu11.png"><img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/apercu10.png">
