@@ -43,7 +43,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 ---
 
-### ⛏️ Mes projets <a name = "Mesprojets"></a>
+## ⛏️ Mes projets <a name = "Mesprojets"></a>
 
 - [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) : site internet d'hébergement et d'activité sur une localité
 
