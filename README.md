@@ -4,6 +4,7 @@
 
 - [Petit mot de présentation](#présentation)
 - [Mes projets](#projet)
+  - [Bookie](#bookie)
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -14,10 +15,14 @@ Gamer sur mon temps libre et autodidacte dans l'informatique depuis mon adolesce
 Étant curieux et intéressé par le monde numérique dans son ensemble, j'ai voulu sortir de ma zone de confort et élargir mes connaisances avec l'univers du software.
 Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation de Développeur Web.
 
+---
+
 <p align="center">
 <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="150px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
 <a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="./images/logo-cv.png" /></a>
 </p>
+
+---
 
 Devenu développeur web, j'ai pu au travers des différents projets de chez OpenClassrooms et projet personnel, apprendre à utiliser différents language et outils et travailler sur la parti front-end mais aussi back-end pour une application web.
 
@@ -37,9 +42,11 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 - <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/1_xp-m10.png"> ExpressJS
 
+---
+
 ## ⛏️ Mes projets <a name = "projet"></a>
 
-- [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) : site internet d'hébergement et d'activité sur une localité
+### [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) <a name = "bookie"></a> : site internet d'hébergement et d'activité sur une localité
 
 Aperçu :
 
