@@ -1,7 +1,7 @@
 <!-- # Salut, moi c'est Damien !!:wave: -->
 <h1 align="center">Salut, moi c'est Damien !!:wave:</h1>
 
-## Petit mot de présentation.
+## 💭 Petit mot de présentation.
 
 Issus du secteur de l'industrie métallurgique, j'ai effectué une reconversion professionnelle en 2022.
 
@@ -13,7 +13,7 @@ Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation d
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="200px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
+  <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="150px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
     <a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="./images/logo-cv.png" /></a>
 </p>
 
@@ -39,4 +39,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 ---
 
-## Mes Projets
+## ⛏️ Mes Projets
+
+- [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) : site internet d'hébergement et d'activité sur une localité
+  Objectif : Transformer une maquette en HTML & CSS.
