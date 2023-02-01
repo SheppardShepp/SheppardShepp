@@ -3,7 +3,7 @@
 ## 📝 Sommaires
 
 - [Petit mot de présentation](#présentation)
-- [Mes projets](#Mesprojets)
+- [Mes projets](#projet)
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -37,7 +37,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 - <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/1_xp-m10.png"> ExpressJS
 
-## ⛏️ Mes projets <a name = "Mesprojets"></a>
+## ⛏️ Mes projets <a name = "projet"></a>
 
 - [Bookie](https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/) : site internet d'hébergement et d'activité sur une localité
 
