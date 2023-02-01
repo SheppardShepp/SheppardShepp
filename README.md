@@ -11,8 +11,8 @@ Gamer sur mon temps libre et autodidacte depuis mon adolescence avec l'outil inf
 Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation de Développeur web.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="100px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
-    <a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="https://img2.freepng.fr/20180629/lup/kisspng-curriculum-vitae-job-hunting-rsum-employment-cv-5b361fa515ed08.7830471615302737010898.jpg" /></a>
+  <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="200px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
+    <a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="/images/logo-cv" /></a>
 </p>
 
 ---
