@@ -31,7 +31,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 #### Les langages
 
-- <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> HTML/CSS - ainsi que le prépossesseur de CSS : Sass
+- <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> HTML/CSS - ainsi que le prépossesseur de CSS : Sass <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
 
@@ -51,7 +51,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie10.jpg"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie12.png"></div>
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/bookie10.jpg"></div>
 
 Objectif : Transformer une maquette en HTML & CSS.
 
@@ -61,8 +61,10 @@ Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo12.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo13.png"> <img height="300" src="https://i.servimg.com/u/f31/13/52/99/79/ohmyfo11.png"></div>
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo12.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/ohmyfo13.png"></div>
 
 Objectif : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
 
 Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+
+Working in progress !!
