@@ -69,7 +69,7 @@ Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng
 
 Aperçu :
 
-<div align="center"><img height="200" src="https://i.servimg.com/u/f31/13/52/99/79/sans_t12.png"></div>
+<div align="center"><img height="100" width="580px" src="https://i.servimg.com/u/f31/13/52/99/79/sans_t12.png"></div>
 
 ---
 
