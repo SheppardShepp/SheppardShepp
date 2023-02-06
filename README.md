@@ -51,6 +51,8 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 Objectif : Transformer une maquette en HTML & CSS.
 
+Lien repositorie : https://github.com/SheppardShepp/Projet-01-OC-Site_Booki-
+
 Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg">
 
 Aperçu :
@@ -63,9 +65,9 @@ Aperçu :
 
 Objectif : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
 
-Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+Lien repositorie : https://github.com/SheppardShepp/Projet-02-OC-Ohmyfood-
 
----
+Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
 Aperçu :
 
