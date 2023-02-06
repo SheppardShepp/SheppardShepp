@@ -55,7 +55,7 @@ Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://user.oc-static.com/upload/2022/06/20/16557256333819_FR_1155_P3_Banner-Booki.png"></div>
+<div align="center"><img height="200" src="https://user.oc-static.com/upload/2022/06/20/16557256333819_FR_1155_P3_Banner-Booki.png"></div>
 
 ---
 
@@ -69,7 +69,7 @@ Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/sans_t11.png"></div>
+<div align="center"><img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/sans_t12.png"></div>
 
 ---
 
