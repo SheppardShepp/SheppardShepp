@@ -20,7 +20,7 @@ Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation d
 
 <p align="center">
 <a href="https://www.linkedin.com/in/damien-criquet-97b3b8238/"><img alt="Lien vers profil linkedin" width="150px" src="https://i.ibb.co/SK582P9/Linkedin-Logo-2048x1280.webp" /></a>
-<a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="./images/logo-cv.png" /></a>
+<a href="https://sheppardshepp.github.io/cv-mk2/"><img alt="Lien vers curriculum vitae" width="100px" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_c10.png" /></a>
 </p>
 
 ---
