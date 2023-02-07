@@ -31,7 +31,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 #### Les langages
 
-- <img height="30" src="https://i.servimg.com/u/f31/13/52/99/79/logo_h10.png"> HTML/CSS - ainsi que le prépossesseur de CSS : Sass <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+- <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> HTML/CSS - ainsi que le prépossesseur de CSS : Sass <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
 
