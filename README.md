@@ -95,7 +95,7 @@ Aperçu :
 
 Objectif : Transformer une maquette en HTML & CSS.
 
-Lien repositorie : https://github.com/SheppardShepp/Starting-website-2-ameliore
+Lien repositorie : https://github.com/SheppardShepp/Projet-05-OC-Kanap
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
