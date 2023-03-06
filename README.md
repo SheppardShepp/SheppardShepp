@@ -7,7 +7,7 @@
   - [Bookie](#bookie) : Transformer une maquette en HTML & CSS.
   - [Ohmyfood](#ohmyfood) : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
   - [La Panthère](#panthere) : Optimisez un site web existant.
-  - 
+  - [Kanap](#panthere) : Construisez un site e-commerce en JavaScript.
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -77,9 +77,9 @@ Aperçu :
 
 ---
 
-#### [La Panthère]([https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/](https://github.com/SheppardShepp/Starting-website-2-ameliore)) <a name = "panthere"></a> : Optimisez un site web existant.
+#### [La Panthère](https://github.com/SheppardShepp/Starting-website-2-ameliore) <a name = "panthere"></a> : Optimisez un site web existant.
 
-Objectif : Transformer une maquette en HTML & CSS.
+Objectif : Optimisez un site web existant.
 
 Lien repositorie : https://github.com/SheppardShepp/Starting-website-2-ameliore
 
@@ -87,6 +87,20 @@ Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/lo
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg"></div>
+<div align="center"><img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_l10.png"></div>
+
+---
+
+#### [Kanap](https://github.com/SheppardShepp/Projet-05-OC-Kanap) <a name = "panthere"></a> : Construisez un site e-commerce en JavaScript.
+
+Objectif : Transformer une maquette en HTML & CSS.
+
+Lien repositorie : https://github.com/SheppardShepp/Starting-website-2-ameliore
+
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+Aperçu :
+
+<div align="center"><img height="300" src="https://i.servimg.com/u/f31/13/52/99/79/logo210.png"></div>
 
 ---
