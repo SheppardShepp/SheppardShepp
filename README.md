@@ -6,6 +6,8 @@
 - [Mes projets](#projet)
   - [Bookie](#bookie) : Transformer une maquette en HTML & CSS.
   - [Ohmyfood](#ohmyfood) : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
+  - [La Panthère](#panthere) : Optimisez un site web existant.
+  - 
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -53,7 +55,7 @@ Objectif : Transformer une maquette en HTML & CSS.
 
 Lien repositorie : https://github.com/SheppardShepp/Projet-01-OC-Site_Booki-
 
-Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg">
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
 
 Aperçu :
 
@@ -67,7 +69,7 @@ Objectif : Dynamiser une page web avec des animations CSS et son pré-possesseur
 
 Lien repositorie : https://github.com/SheppardShepp/Projet-02-OC-Ohmyfood-
 
-Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
 Aperçu :
 
@@ -75,4 +77,16 @@ Aperçu :
 
 ---
 
-Working in progress !!
+#### [La Panthère]([https://sheppardshepp.github.io/Projet-01-OC-Site_Booki-/](https://github.com/SheppardShepp/Starting-website-2-ameliore)) <a name = "panthere"></a> : Optimisez un site web existant.
+
+Objectif : Transformer une maquette en HTML & CSS.
+
+Lien repositorie : https://github.com/SheppardShepp/Starting-website-2-ameliore
+
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
+
+Aperçu :
+
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg"></div>
+
+---
