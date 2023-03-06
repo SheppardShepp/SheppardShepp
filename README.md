@@ -7,7 +7,8 @@
   - [Bookie](#bookie) : Transformer une maquette en HTML & CSS.
   - [Ohmyfood](#ohmyfood) : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
   - [La Panthère](#panthere) : Optimisez un site web existant.
-  - [Kanap](#panthere) : Construisez un site e-commerce en JavaScript.
+  - [Kanap](#kanap) : Construisez un site e-commerce en JavaScript.
+  - [Piquante](#piquante) : Construisez une API sécurisée.
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -91,7 +92,7 @@ Aperçu :
 
 ---
 
-#### [Kanap](https://github.com/SheppardShepp/Projet-05-OC-Kanap) <a name = "panthere"></a> : Construisez un site e-commerce en JavaScript.
+#### [Kanap](https://github.com/SheppardShepp/Projet-05-OC-Kanap) <a name = "kanap"></a> : Construisez un site e-commerce en JavaScript.
 
 Objectif : Transformer une maquette en HTML & CSS.
 
@@ -102,5 +103,19 @@ Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/lo
 Aperçu :
 
 <div align="center"><img height="300" src="https://i.servimg.com/u/f31/13/52/99/79/logo210.png"></div>
+
+---
+
+#### [Piquante](https://github.com/SheppardShepp/P6-Piquante-OC) <a name = "piquante"></a> : Construisez une API sécurisée.
+
+Objectif : Construisez une API sécurisée.
+
+Lien repositorie : https://github.com/SheppardShepp/P6-Piquante-OC
+
+Utilisation : <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/1_xp-m10.png"> <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/f4364410.png">
+
+Aperçu :
+
+<div align="center"><img height="180" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan14.png"></div>
 
 ---
