@@ -9,6 +9,7 @@
   - [La Panthère](#panthere) : Optimisez un site web existant.
   - [Kanap](#kanap) : Construisez un site e-commerce en JavaScript.
   - [Piquante](#piquante) : Construisez une API sécurisée.
+  - [Kasa](#kasa) : Créez une application web avec React.
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -54,7 +55,7 @@ Devenu développeur web, j'ai pu au travers des différents projets de chez Open
 
 Objectif : Transformer une maquette en HTML & CSS.
 
-Lien repositorie : https://github.com/SheppardShepp/Projet-01-OC-Site_Booki-
+Lien repositorie : [https://github.com/SheppardShepp/Projet-01-OC-Site_Booki-](https://github.com/SheppardShepp/Projet-01-OC-Site_Booki-)
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
 
@@ -68,7 +69,7 @@ Aperçu :
 
 Objectif : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
 
-Lien repositorie : https://github.com/SheppardShepp/Projet-02-OC-Ohmyfood-
+Lien repositorie : [https://github.com/SheppardShepp/Projet-02-OC-Ohmyfood-](https://github.com/SheppardShepp/Projet-02-OC-Ohmyfood-)
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
@@ -82,7 +83,7 @@ Aperçu :
 
 Objectif : Optimisez un site web existant.
 
-Lien repositorie : https://github.com/SheppardShepp/Starting-website-2-ameliore
+Lien repositorie : [https://github.com/SheppardShepp/Starting-website-2-ameliore](https://github.com/SheppardShepp/Starting-website-2-ameliore)
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
 
@@ -96,7 +97,7 @@ Aperçu :
 
 Objectif : Transformer une maquette en HTML & CSS.
 
-Lien repositorie : https://github.com/SheppardShepp/Projet-05-OC-Kanap
+Lien repositorie : [https://github.com/SheppardShepp/Projet-05-OC-Kanap](https://github.com/SheppardShepp/Projet-05-OC-Kanap)
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
@@ -106,16 +107,28 @@ Aperçu :
 
 ---
 
-#### [Piquante](https://github.com/SheppardShepp/P6-Piquante-OC) <a name = "piquante"></a> : Construisez une API sécurisée.
+#### [Piquante](https://github.com/SheppardShepp/P6-Piquante-OC) <a name = "piquante"></a> : Application d'avis gastronomiques.
 
-Objectif : Construisez une API sécurisée.
+Objectif : Construction une API sécurisée.
 
-Lien repositorie : https://github.com/SheppardShepp/P6-Piquante-OC
+Lien repositorie : [https://github.com/SheppardShepp/P6-Piquante-OC](https://github.com/SheppardShepp/P6-Piquante-OC)
 
 Utilisation : <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/1_xp-m10.png"> <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/f4364410.png">
 
 Aperçu :
 
-<div align="center"><img height="180" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan14.png"></div>
+<div align="center"><img height="100" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan14.png"></div>
 
 ---
+
+#### [Kasa](https://github.com/SheppardShepp/p7-kasa-oc) <a name = "kasa"></a> : Application web de location immobilière.
+
+Objectif : Créez une application web avec React.
+
+Lien repositorie : [https://github.com/SheppardShepp/P6-Piquante-OC](https://github.com/SheppardShepp/p7-kasa-oc)
+
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+Aperçu :
+
+<div align="center"><img height="180" src="https://i31.servimg.com/u/f31/13/52/99/79/imgrea10.png"></div>
