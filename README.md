@@ -3,6 +3,7 @@
 ## 📝 Sommaires
 
 - [Petit mot de présentation](#présentation)
+- [Actuellement je pratique](#pratique)
 - [Mes projets](#projet)
   - [Bookie](#bookie) : Transformer une maquette en HTML & CSS.
   - [Ohmyfood](#ohmyfood) : Dynamiser une page web avec des animations CSS et son pré-possesseur Sass.
@@ -10,7 +11,6 @@
   - [Kanap](#kanap) : Construisez un site e-commerce en JavaScript.
   - [Piquante](#piquante) : Construisez une API sécurisée.
   - [Kasa](#kasa) : Créez une application web avec React.
-
 - [Mes projets personnels](#perso)
   - [Site Mariage](#mariage) : Création d'un site web pour mon mariage.
 
@@ -34,7 +34,7 @@ Je me suis donc lancé et formé chez OpenClassrooms en 2022 pour la formation d
 
 Devenu développeur web, j'ai pu au travers des différents projets de chez OpenClassrooms et projet personnel, apprendre à utiliser différents language et outils et travailler sur la parti front-end mais aussi back-end pour une application web.
 
-### ✍️ Actuellement je pratique :
+### ✍️ Actuellement je pratique : <a name = "pratique"></a>
 
 #### Les langages
 
@@ -150,6 +150,6 @@ Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/lo
 
 Aperçu :
 
-<div align="center"><img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/weddin11.png"></div>
+<div align="center"><img height="150" src="https://i31.servimg.com/u/f31/13/52/99/79/weddin11.png"></div>
 
 ---
