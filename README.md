@@ -11,6 +11,9 @@
   - [Piquante](#piquante) : Construisez une API sécurisée.
   - [Kasa](#kasa) : Créez une application web avec React.
 
+- [Mes projets personnels](#perso)
+  - [Site Mariage](#mariage) : Création d'un site web pour mon mariage.
+
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
 Issus du secteur de l'industrie métallurgique, j'ai effectué une reconversion professionnelle en 2022.
@@ -132,3 +135,21 @@ Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/lo
 Aperçu :
 
 <div align="center"><img height="250" src="https://i31.servimg.com/u/f31/13/52/99/79/imgrea11.png"></div>
+
+---
+
+## ⛏️ Mes projets personnels <a name = "perso"></a>
+
+#### [Site Mariage](https://github.com/SheppardShepp/Wedding-website-2.0) <a name = "mariage"></a> : Création d'un site web pour mon mariage.
+
+Objectif : Création d'un site web pour mon mariage a destination des mes invités.
+
+Lien repositorie : [https://github.com/SheppardShepp/P6-Piquante-OC](https://github.com/SheppardShepp/p7-kasa-oc)
+
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+Aperçu :
+
+<div align="center"><img height="200" src="https://i31.servimg.com/u/f31/13/52/99/79/imgrea11.png"></div>
+
+---
